@@ -1,16 +1,17 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2017-12-14T13:28:24</property>
+    <property name="created">2018-07-12T22:44:53</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-06-08T13:18:14</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="ideVersion">2018.1.6.0.0</property>
+    <property name="modified">2018-07-12T23:03:32</property>
+    <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="7bc65a" />
     <option name="FILESTATUS_COPIED" value="b48ae3" />
     <option name="FILESTATUS_DELETED" value="e14c61" />
     <option name="FILESTATUS_HIJACKED" value="423a34" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="d1b46d" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e14c61" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e14c61" />
@@ -22,7 +23,6 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="e39f37" />
     <option name="FILESTATUS_OBSOLETE" value="464735" />
     <option name="FILESTATUS_RENAMED" value="2d3e4f" />
-    <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="334039" />
     <option name="FILESTATUS_UNKNOWN" value="e14c61" />
     <option name="FILESTATUS_addedOutside" value="7bc65a" />
