@@ -3,7 +3,8 @@
     <option name="version" value="2.4.0.3-2018.2" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="F44336" />
     <option name="userId" value="-3be32df3:163edecc303:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
