@@ -1,13 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.4.0.3-2018.2" />
     <option name="selectedTheme" value="ARC_DARK" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="f44336" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="f44336" />
     <option name="statusBarTheme" value="false" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="-3be32df3:163edecc303:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
