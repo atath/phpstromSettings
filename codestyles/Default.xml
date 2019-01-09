@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="Gherkin">
@@ -36,11 +36,6 @@
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="yaml">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
