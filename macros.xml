@@ -3,7 +3,6 @@
     <macro name="enlightenSaveAndBuild">
       <action id="SaveAll" />
       <action id="Run" />
-      <action id="Run" />
     </macro>
   </component>
 </application>
